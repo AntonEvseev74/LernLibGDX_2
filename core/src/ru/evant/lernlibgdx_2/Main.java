@@ -19,6 +19,11 @@ package ru.evant.lernlibgdx_2;
 		содержащее текст «Вы выиграли».
  */
 
+/*
+    Все файлы ресурсов для игры (картинки, звуки, музыка) находятся по дирректории:
+    LernLibGDX_2 -> android -> assets
+ */
+
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
